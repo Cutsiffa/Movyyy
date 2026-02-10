@@ -3143,3 +3143,331 @@ https://8bb88.cdnedge.live/file/avple-images/hls/6171a7ddf8003d17dfd1a735/playli
 https://10j99.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
 #EXTINF:-1 type="movie" tvg-id="国产11传媒06" tvg-logo="nan" group-title="A8",国产11传媒06
 https://d862cp.cdnedge.live/file/avple-images/hls/61703f29bc5c965ae4f56248/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/i/64708_intellektual_nye_igry_-_epizod_2.jpg" group-title="Rusia 1",Интеллектуальные Игры - Эпизод 2 (2024)
+https://video4.tizam.cc/films/intellektual_nye_igry_-_epizod_2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/cms/data/posters_fon/mama-trahar_master_jogi.jpg" group-title="Rusia 1",Мама-трахарь: Мастер Йоги (2024)
+https://video5.tizam.cc/films/mom-fuckers720.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/e/64636_eto_vse_radi_buduwego_vashego_syna.jpg" group-title="Rusia 1",Это все ради будущего вашего сына (2024)
+https://video5.tizam.cc/films/for-his-future720.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/p/64794_pomogi_mne_ya_pomogu_tebe.jpg" group-title="Rusia 1",Помоги мне, я помогу тебе (2024)
+https://video4.tizam.cc/films/helpmehelpyou2.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/4/64801_40_letnyaya_obuchenie_moej_sosedki.jpg" group-title="Rusia 1",40 Летняя: Обучение Моей Соседки (2019)
+https://video4.tizam.cc/films/education-of-my-young-neighbor-2.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/i/64727_intellektual_nye_igry_-_epizod_3.jpg" group-title="Rusia 1",Интеллектуальные Игры - Эпизод 3 (2024)
+https://video4.tizam.cc/films/intellektual_nye_igry3.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/s/64601_sanni_goldmelons_-_scena_2.jpg" group-title="Rusia 1",Санни Голдмелонс - Сцена 2 (2024)
+https://video5.tizam.cc/films/sunnygoldmelons-sc-2.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/p/64781_podkast_brazzers_epizod_1.jpg" group-title="Rusia 1",Подкаст Brazzers: Эпизод 1 (2024)
+https://video4.tizam.cc/films/pd-brazzers-2.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/d/64821_dryannye_studentki_5.jpg" group-title="Rusia 1",Дрянные Студентки 5 (2011)
+https://video4.tizam.cc/films/badass-school-girls-5-2.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/cms/data/posters_fon/pc1/otsosi_ili_budesh_isklyuchena.jpg" group-title="Rusia 1",Отсоси или будешь исключена! (2024)
+https://video4.tizam.cc/films/sosi-il-bydew-isllucena2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/i/64608_intellektual_nye_igry_-_epizod_1.jpg" group-title="Rusia 1",Интеллектуальные Игры - Эпизод 1 (2024)
+https://video5.tizam.cc/films/mind-game1.mp4
+#EXTINF:-1 tvg-logo="https://go.tizam.info/images/pr_img_videos/l/64751_lovec_snov.jpg" group-title="Rusia 1",Ловец снов (2024)
+https://video4.tizam.cc/films/dreamweaver-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/s/64589_sanni_goldmelons_-_scena_1.jpg" group-title="Rusia 1",Санни Голдмелонс - Сцена 1 (2024)
+https://video5.tizam.cc/films/sunnygoldmelons720.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/z/64675_zdorovye_otnosheniya.jpg" group-title="Rusia 1",Здоровые отношения (2024)
+https://video4.tizam.cc/films/healthy-relationships1.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/a/64687_amerikanskaya_milfa_epizod_2.jpg" group-title="Rusia 1",Американская Милфа: Эпизод 2 (2024)
+https://video4.tizam.cc/films/amerikanskaya_milfa_epizod_2.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/a/64668_amerikanskaya_milfa_epizod_1.jpg" group-title="Rusia 1",Американская Милфа: Эпизод 1 (2024)
+https://video4.tizam.cc/films/american-milf-ep1-720.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/m/64654_mamatrahar.jpg" group-title="Rusia 1",Маматрахарь (2024)
+https://video4.tizam.cc/films/motherfucker.mp4
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/o/64648_osnovnoj_instinkt.jpg" group-title="Rusia 1",Основной Инстинкт (1996)
+https://video4.tizam.cc/films/primal-instinct-porn.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/n/64572_nevinnaya_tradiciya_prevrawaetsya_v_obmen_mamochkami.jpg" group-title="Rusia 1",Невинная традиция превращается в обмен мамками (2024)
+https://video5.tizam.cc/films/swapping-fuck-sesh720.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/l/64581_lyubitel_nica_bol_shogo_chlena.jpg" group-title="Rusia 1",Любительница большого члена (2024)
+https://video5.tizam.cc/films/takes-big-dick.mp4
+
+#EXTINF:-1 tvg-logo="https://rt.tizam.info/images/pr_img_videos/a/64628_a_nas_ne_zastukayut.jpg" group-title="Rusia 1",А Нас Не Застукают (2008)
+https://video4.tizam.cc/films/sex-in-dangerous-places-720.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/t/64610_temnaya_storona.jpg" group-title="Rusia 1",Темная Сторона (2001)
+https://video4.tizam.cc/films/virtualia-episode-3-the-dark-side.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/u/64568_ugovoril_zhenu_dlya_bossa.jpg" group-title="Rusia 1",Уговорил жену для босса (2024)
+https://video5.tizam.cc/films/preserving-our-new-lifestyle2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/d/64533_devushki_v_stile_pin-ap_3.jpg" group-title="Rusia 1",Девушки в стиле Пин-Ап 3 (2010)
+https://video5.tizam.cc/films/pin-up-girls-vol-3-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/p/64520_peresechenie_granic.jpg" group-title="Rusia 1",Пересечение Границ (2017)
+https://video5.tizam.cc/films/crossingborders-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/d/64524_doch_moego_bossa_iii.jpg" group-title="Rusia 1",Дочь моего босса III (2024)
+https://video5.tizam.cc/films/doch_moego_bossa_iii.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/g/64556_gangbang_simpatichnoj_brazil_yanki_s_bol_shimi_sis_kami.jpg" group-title="Rusia 1",ГангБанг симпатичной бразильянки с большими сиськами (2024)
+https://video4.tizam.cc/films/gang-bang-victoria-camargo-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/m/64548_moya_byvshaya_i_novaya_devushka.jpg" group-title="Rusia 1",Моя бывшая и новая девушка (2024)
+https://video4.tizam.cc/films/ex-sex-with-the-gf-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/d/64424_d_yavol_gluboko_vnutri.jpg" group-title="Rusia 1",Дьявол Глубоко Внутри (2003)
+https://video4.tizam.cc/films/devil-deep-inside-russ.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/o/64490_ona_staralas_kak_mogla.jpg" group-title="Rusia 1",Она Старалась Как Могла (2024)
+https://video5.tizam.cc/films/better-than-she-ever-could-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/s/64475_spasenie_semejnogo_biznesa.jpg" group-title="Rusia 1",Спасение Семейного Бизнеса (2024)
+https://video5.tizam.cc/films/saving-the-family-business-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/p/64415_plan_mesti_epizod_2.jpg" group-title="Rusia 1",План Мести: Эпизод 2 (2024)
+https://video5.tizam.cc/films/plan-mesti-ep-2-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/h/64470_holostyachka.jpg" group-title="Rusia 1",Холостячка (2024)
+https://video5.tizam.cc/films/bachelorette-pt-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/a/64465_ajris_epizod_3_reshenie.jpg" group-title="Rusia 1",Айрис. Эпизод 3: Решение (2024)
+https://video4.tizam.cc/films/iris-episode-3-decision-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/p/64459_plan_mesti_epizod_3.jpg" group-title="Rusia 1",План Мести: Эпизод 3 (2024)
+https://video4.tizam.cc/films/plan_mesti-scen-3-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/z/64540_zhyustina_otkrovenie_2.jpg" group-title="Rusia 1",Жюстина Откровение 2 (1993)
+https://video4.tizam.cc/films/justine-nothing-to-hide-2-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/u/64536_udovol_stvie_v_vegase.jpg" group-title="Rusia 1",Удовольствие в Вегасе (2024)
+https://video4.tizam.cc/films/vegas-pleasure-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/v/64449_vzglyad_ustalyh_glaz.jpg" group-title="Rusia 1",Взгляд усталых глаз (2024)
+https://video5.tizam.cc/films/a-sight-for-sore-eyes-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/p/64472_plohie_devchonki.jpg" group-title="Rusia 1",Плохие Девчонки (2008)
+https://video4.tizam.cc/films/bad-girls-ink-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/p/64510_plan_mesti_epizod_4.jpg" group-title="Rusia 1",План Мести: Эпизод 4 (2024)
+https://video5.tizam.cc/films/plan-messti4-1.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/p/64395_plan_mesti.jpg" group-title="Rusia 1",План мести (2024)
+https://video5.tizam.cc/films/plan-mest-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/v/64438_vozbuzhdennaya_nyanya-shpionka.jpg" group-title="Rusia 1",Возбужденная няня-шпионка (2024)
+https://video4.tizam.cc/films/14rus_dlt23046-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/k/64488_kurortnyj_roman.jpg" group-title="Rusia 1",Курортный Роман (2019)
+https://video5.tizam.cc/films/vacation-sex-porn-rus2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/l/64444_leto_bogatstva.jpg" group-title="Rusia 1",Лето богатства (2024)
+https://video5.tizam.cc/films/a-sammer-richs-2.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/i/64408_iskusheniya_klariss.jpg" group-title="Rusia 1",Искушения Кларисс (1998)
+https://video4.tizam.cc/films/temptations-of-clarisse-the2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/i/64428_iz_derevenskoj_devushki_v_porno_zvyozdy.jpg" group-title="Rusia 1",Из деревенской девушки в порно звёзды (2024)
+https://video5.tizam.cc/films/iz-derevenskoy-2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/m/64513_mezhrassovaya_izmena.jpg" group-title="Rusia 1",Межрассовая Измена (2018)
+https://video4.tizam.cc/films/queen-of-spades-club-the-1.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/o/64499_obnazhennaya_fotosessiya_s_okonchaniem_v_rot.jpg" group-title="Rusia 1",Обнаженная фотосессия с окончанием в рот (2024)
+https://video5.tizam.cc/films/takepicstakedick-1.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/6/64404_66-j_den_scena_1.jpg" group-title="Rusia 1",66-й день: Сцена 1 (2024)
+https://video4.tizam.cc/films/66thday-scene2.mp4
+#EXTINF:-1 tvg-logo="https://wwa.tizam.info/images/pr_img_videos/h/64486_holostyachka_-_chast_3.jpg" group-title="Rusia 1",Холостячка. Часть 3 (2024)
+https://video5.tizam.cc/films/bachelorette-pt-3-2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/g/64351_gryaznye_kopy_epizod_4.jpg" group-title="Rusia 1",Грязные Копы: Эпизод 4 (2024)
+https://video5.tizam.cc/films/dirty-cops-ep-4-2.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/p/64363_polnyj_kompleks_uslug.jpg" group-title="Rusia 1",Полный Комплекс Услуг (2024)
+https://video5.tizam.cc/films/the-full-service2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/n/64277_nevernaya_zadnica_mamy.jpg" group-title="Rusia 1",Неверная задница мамы (2024)
+https://video5.tizam.cc/films/momsass2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/k/64332_krug.jpg" group-title="Rusia 1",Круг (2024)
+https://video5.tizam.cc/films/thecircle2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/t/64302_tajnyj_obmen_drugaya_sem_ya.jpg" group-title="Rusia 1",Тайный обмен: Другая семья (2024)
+https://video5.tizam.cc/films/swapped-in-secret-the-other-family2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/n/64285_nash_dom_mechty_svobodnogo_ispol_zovaniya.jpg" group-title="Rusia 1",Наш дом мечты свободного использования (2024)
+https://video5.tizam.cc/films/wofdh-2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/g/64340_gryaznye_kopy_epizod_3.jpg" group-title="Rusia 1",Грязные Копы: Эпизод 3 (2024)
+https://video5.tizam.cc/films/dirty-cops-ep-3-2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/r/64294_romantika_pri_svechah.jpg" group-title="Rusia 1",Романтика при свечах (2024)
+https://video5.tizam.cc/films/candlelit-romance2.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/r/64389_roskoshnyj_bordel.jpg" group-title="Rusia 1",Роскошный Бордель (2008)
+https://video4.tizam.cc/films/bordello-deluxe-porn2.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/p/64392_prishlo_vremya_poblagodarit_menya.jpg" group-title="Rusia 1",Пришло Время Поблагодарить Меня (2024)
+https://video4.tizam.cc/films/time-to-thank-me2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/p/64342_privat_komnata.jpg" group-title="Rusia 1",Приват Комната (2015)
+https://video4.tizam.cc/films/tudor-lounge-the-porn2.mp4
+#EXTINF:-1 tvg-logo="https://naw.tizam.pw/images/pr_img_videos/s/64335_seksual_nye_sekrety_paparacci.jpg" group-title="Rusia 1",Сексуальные Секреты Папарацци (2003)
+https://video4.tizam.cc/films/sex-secrets-of-the-paparazzi-porn2.mp4
+#EXTINF:-1 tvg-logo="https://you.tizam.pw/images/pr_img_videos/s/64378_sredstvo_dlya_snyatiya_stressa.jpg" group-title="Rusia 1",Средство для снятия стресса (2024)
+https://video4.tizam.cc/films/stressreliever2.mp4
+
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",SSNI-314 2018
+https://jkunbf.com/20230304/ASJx6Rek/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",SSNI-337 2018
+https://jkunbf.com/20230304/HrRrahDk/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",SSNI-3812019
+https://jkunbf.com/20230304/qj7w82g7/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",SSNI-465 2019
+https://jkunbf.com/20230304/u7n6nIqv/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-506 AIKA 2019
+https://jkunbf.com/20230303/gOSYMXz2/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",PPPD-719 2018
+https://jkunbf.com/20230304/Ov3pPFeR/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",PPPD-740 2019
+https://jkunbf.com/20230304/ROJzYLi2/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",PPPD-747 2019
+https://jkunbf.com/20230304/PdFfahnR/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",PPPD-762 2019
+https://videomy.yongaomy.com/20191213/d8DWIZGh/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",WANZ-817 
+https://jkunbf.com/20230304/Ocn5m4xa/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",3776
+https://jkunbf.com/20231103/glvIllEJ/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-469 2019
+https://jkunbf.com/20230303/B8Inz7r4/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-509 2019
+https://jkunbf.com/20230303/lm4NAc8w/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-536 2019
+https://jkunbf.com/20230303/AoIGf4as/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",IPZ-662 2015
+https://lajiao-bo.com/20190701/lIKngOeX/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-412 2018
+https://lajiao-bo.com/20190515/YgYM5ScP/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-483 2019
+https://lajiao-bo.com/20190519/xicyJBUf/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",MEYD-526 2019
+https://cdn3.lajiao-bo.com/20191114/TIMld8cJ/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", 8344
+https://lajiao-bo.com/20190501/HtOWsWii/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY0
+https://lajiao-bo.com/20190501/K8NLMmOr/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY1
+https://lajiao-bo.com/20190502/SncyGAtE/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY2
+https://lajiao-bo.com/20190502/WtyioCSI/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY3
+https://lajiao-bo.com/20190502/e1fl7rns/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY4
+https://lajiao-bo.com/20190502/bZtDDapR/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY5
+https://lajiao-bo.com/20190502/2rRR1K32/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY6
+https://lajiao-bo.com/20190502/48Fhxb30/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY7
+https://lajiao-bo.com/20190502/Nqfy6NQM/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY8
+https://lajiao-bo.com/20190502/vwV7j1ce/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY9
+https://lajiao-bo.com/20190501/6mEnraQd/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY10
+https://lajiao-bo.com/20190501/X0DRzA0O/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY11
+https://lajiao-bo.com/20190501/ghWeIK6W/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY12
+https://lajiao-bo.com/20190501/5DVgnqcv/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY13
+https://lajiao-bo.com/20190501/nFzHwaZf/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY14
+https://lajiao-bo.com/20190501/c24dZX3Z/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY15
+https://lajiao-bo.com/20190501/xKnlQZI8/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY16
+https://lajiao-bo.com/20190501/AUSG7lG9/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY17
+https://lajiao-bo.com/20190501/YDIlbjig/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY18
+https://lajiao-bo.com/20190501/46EsDemO/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY19
+https://lajiao-bo.com/20190501/tVoClsyI/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY20
+https://lajiao-bo.com/20190501/Vwf85AVR/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY21
+https://lajiao-bo.com/20190501/YbV3H4kb/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY22
+https://lajiao-bo.com/20190501/7K4NKVqd/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY23
+https://lajiao-bo.com/20190501/2YYxLNp3/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY24
+https://lajiao-bo.com/20190501/nrAU1cNU/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY25
+https://lajiao-bo.com/20190501/yJjF9Lpo/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY26
+https://lajiao-bo.com/20190501/geB7qUnB/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY27
+https://lajiao-bo.com/20190501/nrm0GLmS/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY28
+https://lajiao-bo.com/20190501/IxBHWVNR/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY29
+https://lajiao-bo.com/20190501/gnj9MH1u/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY30
+https://lajiao-bo.com/20190501/f7VvaNBV/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY31
+https://lajiao-bo.com/20190501/UHtuWy8n/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY32
+https://lajiao-bo.com/20190501/QlkNSigl/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY33
+https://lajiao-bo.com/20190501/pekku69u/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY34
+https://lajiao-bo.com/20190501/TYDbVSYl/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY35
+https://lajiao-bo.com/20190501/SsR8Xv6z/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY36
+https://lajiao-bo.com/20190501/CO6zf8vJ/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY37
+https://lajiao-bo.com/20190501/S4xw5st8/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",OZY38
+https://lajiao-bo.com/20190501/81q6w2CW/index.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",25522
+https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",2442
+https://47b61.cdnedge.live/file/avple-images/hls/1605633653/2000/2585/2585.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",98766
+https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",97262
+https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",9287
+https://47b61.cdnedge.live/file/avple-images/hls/6219eb6ab9e8e9119a2f1fec/playlist.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",9262
+https://47b61.cdnedge.live/file/avple-images/hls/61e927b7c6ba7653ff362827/playlist.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",7355
+https://47b61.cdnedge.live/file/avple-images/hls/6133728dab335a56e394824c/playlist.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",9848
+https://47b61.cdnedge.live/file/avple-images/hls/60e735e9295d6915521367d0/playlist.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",8374
+https://47b61.cdnedge.live/file/avple-images/hls/6124/6124.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",8789
+https://47b61.cdnedge.live/file/avple-images/hls/1605636162/0/424/424.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg",8688
+https://47b61.cdnedge.live/file/avple-images/hls/1605650414/4000/4439/4439.m3u8
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon1
+https://video2.tizam.cc/films/Cravin-An-Asian-4.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon2
+https://video1.tizam.cc/films/tatlov-abombshells.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon3
+https://video1.tizam.cc/films/110317001-caribpr-1080p.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon4
+https://video1.tizam.cc/films/tatlov-abombshells.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon5
+https://video1.tizam.cc/films/Asian_Bombshells_3.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon6
+https://video1.tizam.cc/files/2532472/asian_chicks_love_black_dicks_xxx.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon7
+https://video1.tizam.cc/new_films/ReinaShiraishi.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon8
+https://video1.tizam.cc/files/2526125/hitomi.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon9
+https://video1.tizam.cc/files/2525283/goryachaya_yaponka.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon10
+https://video1.tizam.cc/new_films/Asian-Connection-2.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon11
+https://video1.tizam.cc/films/MikuKohinataSeducingBody.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon12
+https://video1.tizam.cc/files/2513086/the_asians_are_cumming_3._cd1.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon13
+https://video2.tizam.cc/films/Pure-Elegance-2015.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon14
+https://video1.tizam.cc/files/2557757/pure_asian_first_timers.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon15
+https://video1.tizam.cc/files/2555841/carib_whole.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon16
+https://video1.tizam.cc/files/2555857/trah_v_ofise_s_aziatkoy.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon17
+https://video1.tizam.cc/files/2549906/nevernaya_zhena_shidaka_i_ee_chuvstvitelnaya_tochka_g.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon18
+https://video1.tizam.cc/files/2549900/hitomi_tanaka_obescheshchennaya_pyshnogrudaya_direktrisa.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon19
+https://video1.tizam.cc/files/2549437/nash_prigorodnyy_avtobus_zastryal_v_probke.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon20
+https://video1.tizam.cc/files/2547466/asian_all_stars_2.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon21
+https://video1.tizam.cc/new_films/heyzo_lt_1737_full.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon22
+https://video1.tizam.cc/new_films/051118-663-carib-1080p.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon23
+https://video1.tizam.cc/roliki/snogsshibatel_nye.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon24
+https://video1.tizam.cc/films/aziatskie_ulichnye_shlyuhi_19.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon25
+https://video2.tizam.cc/films/blagodarnost_za_anal_nyj_krempaj_akari_asagiri.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon26
+https://video2.tizam.cc/films/aziatskaya_lihoradka.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon27
+https://video3.tizam.cc/films/5e42edce13d9a.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon28
+https://video1.tizam.cc/films/ya_nikogda_ne_dumal_chto_moya_zhena.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon29
+https://video2.tizam.cc/films/izmena-jeni-s-kollegoy-aziya.mp4
+#EXTINF:-1 type="movie" group-title="NEW JAV" tvg-logo="https://i.pinimg.com/474x/0a/9b/d8/0a9bd873e9dc6b46b751acbb2177e2e4.jpg", jopon30
+https://video1.tizam.cc/films/Yukina-Aoyama-Himekore53.mp4
+
